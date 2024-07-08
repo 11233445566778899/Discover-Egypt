@@ -1,0 +1,29 @@
+body{
+    background-image: url("bg.png");
+}
+header .img-container{
+    width: 200px;
+}
+.img-container img{
+    width: 100%;
+    display: block;
+}
+.title-container{
+    background-color: rgba(210, 158, 26, 0.5);
+    padding: 12px;
+}
+.title-container h1{
+    font-size: 24px;
+}
+main a{
+    text-decoration: none;
+    color: inherit;
+}
+.card{
+    display: inline-block;
+    background-color: darkgoldenrod;
+    padding: 16px 24px;
+    font-size: 30px;
+}
+.body{background-image: url(bg);}
+header {display:flex;}
